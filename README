@@ -1,0 +1,4 @@
+json printer for haskell
+
+compiles with GHC == 7.4.2
+probably works with higher and lower versions too
